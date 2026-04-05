@@ -1,0 +1,10 @@
+Item01,lighter,environment
+Item02,stone,environment
+Item03,woods,environment
+Item04,rope,inventory
+Item05,spirta,environment
+Item06,meat,environment
+Item07,money,inventory
+Item08,fish,environment
+Item09,knife,inventory
+Item10,hook,environment

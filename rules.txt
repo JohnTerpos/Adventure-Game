@@ -1,0 +1,6 @@
+woods+spirta=fire
+woods+lighter=fire
+fire+fish=food
+fire+meat=food
+rope+hook=climbing hook
+stone+woods=pickaxe
